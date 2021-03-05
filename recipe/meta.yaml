@@ -1,4 +1,4 @@
-{% set version = "0.0.1" %}
+{% set version = "0.2.3" %}
 
 package:
   name: qhub-dask
@@ -11,7 +11,7 @@ build:
 requirements:
   run:
     - dask ==2.14.0
-    - distributed ==2.14.0
+    - distributed ==2.14
     - dask-gateway ==0.6.1
 
 test:
