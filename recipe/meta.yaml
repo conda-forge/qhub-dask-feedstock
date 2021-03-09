@@ -13,6 +13,7 @@ requirements:
     - dask ==2.14.0
     - distributed ==2.14
     - dask-gateway ==0.6.1
+    - bokeh==2.2.3
 
 test:
   imports:
