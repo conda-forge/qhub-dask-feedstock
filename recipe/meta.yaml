@@ -1,4 +1,4 @@
-{% set version = "0.3.12" %}
+{% set version = "0.3.13" %}
 
 package:
   name: qhub-dask
