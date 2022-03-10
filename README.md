@@ -117,6 +117,7 @@ Feedstock Maintainers
 =====================
 
 * [@costrouc](https://github.com/costrouc/)
+* [@iameskild](https://github.com/iameskild/)
 * [@prasunanand](https://github.com/prasunanand/)
 * [@viniciusdc](https://github.com/viniciusdc/)
 
