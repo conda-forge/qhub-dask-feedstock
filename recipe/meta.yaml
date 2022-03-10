@@ -1,4 +1,4 @@
-{% set version = "0.3.14" %}
+{% set version = "0.4.0" %}
 
 package:
   name: qhub-dask
@@ -30,3 +30,4 @@ extra:
     - prasunanand
     - costrouc
     - viniciusdc
+    - iameskild
