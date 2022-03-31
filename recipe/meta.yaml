@@ -5,7 +5,7 @@ package:
   version: {{ version }}
 
 build:
-  number: 0
+  number: 1
   noarch: generic
 
 requirements:
@@ -13,6 +13,7 @@ requirements:
     - dask ==2021.7.2
     - distributed ==2021.7.2
     - dask-gateway ==0.9.0
+    - click ==8.0.2
 
 test:
   imports:
