@@ -1,11 +1,11 @@
-{% set version = "0.4.0" %}
+{% set version = "0.4.1" %}
 
 package:
   name: qhub-dask
   version: {{ version }}
 
 build:
-  number: 1
+  number: 0
   noarch: generic
 
 requirements:
