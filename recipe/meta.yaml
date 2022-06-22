@@ -5,14 +5,14 @@ package:
   version: {{ version }}
 
 build:
-  number: 0
+  number: 1
   noarch: generic
 
 requirements:
   run:
     - dask
-    - distributed ==2022.04.2
-    - dask-gateway ==2022.4.0
+    - distributed ==2022.2.0
+    - dask-gateway ==0.9.0
     - click ==8.0.2
 
 test:
